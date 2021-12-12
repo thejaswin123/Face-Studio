@@ -5,6 +5,7 @@ freeglut3-dev
 cmake
 libopenblas-dev
 numpy
+opencv-contrib-python
 opencv-python-headless
 opencv-python==2.4.9
 streamlit==1.2.0
