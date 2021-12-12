@@ -4,5 +4,5 @@
      - dlib
      - numpy
      - scipy
-     - opencv-python
+     - opencv-python-headless
      - face_recognition
