@@ -4,6 +4,7 @@ libboost-all-dev
 freeglut3-dev
 cmake
 libopenblas-dev
+opencv-python==2.4.9
 streamlit==1.2.0
 pillow==8.4.0
 numpy==1.19.5
